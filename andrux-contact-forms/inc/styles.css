@@ -1,0 +1,32 @@
+.contact-form-meta-container .dashicons {
+	color: #d3d3d3;
+}
+
+.contact-form-meta-container .dashicons-dismiss:hover {
+	color: #ff0000;
+}
+
+.contact-form-meta-container .dashicons-plus-alt:hover {
+	color: #008000;
+}
+
+.contact-form-meta-container .extra-fields span,
+.contact-form-meta-container .advanced-settings,
+.contact-form-meta-container #mailing-list-text,
+.contact-form-meta-container #captcha-text {
+	display: none;
+}
+
+.contact-form-meta-container label,
+.hidden-container {
+	display: block;
+}
+
+.hidden-container textarea {
+	width: 100%;
+	resize: none;
+}
+
+#contact-form-email td {
+	vertical-align: top;
+}
