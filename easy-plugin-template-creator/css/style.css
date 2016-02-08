@@ -1,0 +1,13 @@
+.hidden {
+	display: none;
+}
+
+div table.hooks-list {
+	border: 2px outset #3399ff;
+	width: 400px;
+	border-collapse: collapse;
+}
+
+div table.hooks-list td {
+	border: 1px dotted #00ff00;
+}
